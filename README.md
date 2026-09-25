@@ -1,0 +1,1 @@
+# installer-zapret2-voidlinux
